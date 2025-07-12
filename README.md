@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm KingToxic!
 
-<!--
-**KingToxic/kingtoxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science undergrad** currently attending community college and working toward a bachelor's degree. I enjoy building small-scale tech projects to sharpen my skills and am passionate about learning more in areas like web development, scripting, and data tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+
+- Git and GitHub workflows
+- Frontend basics: HTML/CSS + React
+- Linux terminal & scripting
+- Algorithms & Data Structures
+
+---
+
+## 🔧 Projects I'm Working On
+
+- 🛠️ **[Remembrance]** – Luau game, custom 3d models, animation engine, data-store engine ([GitHub Link](#))
+- 📊 **[Piano Tile Replica]** – Beginner CS project, useful for active reaction time accrual ([GitHub Link](#))
+
+*(See pinned repos below for more)*
+
+---
+
+## 💼 Career Goals
+
+I'm actively looking to:
+- Contribute to open-source projects
+- Land a **part-time tech job or internship**
+- Connect with other developers and mentors
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/your-link)  
+- [GitHub](https://github.com/yourusername)  
+- Email: your.email@example.com
+
+---
+
+> "Stay curious. Build often. Learn every day."
