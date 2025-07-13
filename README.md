@@ -8,7 +8,7 @@ I'm a **Computer Science undergrad** currently attending community college and w
 
 - Git and GitHub workflows
 - Frontend basics: HTML/CSS + React
-- CPP & PYthon
+- CPP & Python
 - Algorithms & Data Structures
 
 ---
