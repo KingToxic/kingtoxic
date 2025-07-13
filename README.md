@@ -8,18 +8,15 @@ I'm a **Computer Science undergrad** currently attending community college and w
 
 - Git and GitHub workflows
 - Frontend basics: HTML/CSS + React
-- Linux terminal & scripting
+- CPP & PYthon
 - Algorithms & Data Structures
 
 ---
 
 ## 🔧 Projects I'm Working On
 
-- 🛠️ **[Remembrance]** – Luau game, custom 3d models, animation engine, data-store engine ([GitHub Link](#))
-- 📊 **[Piano Tile Replica]** – Beginner CS project, useful for active reaction time accrual ([GitHub Link](#))
-
-*(See pinned repos below for more)*
-
+- 🛠️ **[Remembrance]** – Luau game, custom 3d models, animation engine, data-store engine ([GitHub Link](https://github.com/KingToxic/remembrance-overview/)
+  
 ---
 
 ## 💼 Career Goals
@@ -33,10 +30,5 @@ I'm actively looking to:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [GitHub](https://github.com/yourusername)  
-- Email: your.email@example.com
+- [GitHub](https://github.com/KingToxic)  
 
----
-
-> "Stay curious. Build often. Learn every day."
