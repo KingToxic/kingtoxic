@@ -15,7 +15,7 @@ I'm a **Computer Science undergrad** currently attending community college and w
 
 ## 🔧 Projects I'm Working On
 
-- 🛠️ **[Remembrance]** – Luau game, custom 3d models, animation engine, data-store engine ([GitHub Link](https://github.com/KingToxic/remembrance-overview/)
+- 🛠️ **[Remembrance]** – Luau game, custom 3d models, animation engine, data-store engine ([GitHub Link])(https://github.com/KingToxic/remembrance-overview/)
   
 ---
 
