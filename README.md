@@ -2,7 +2,7 @@
 
 ---
 Active Projects
-- Remembrance – Luau game, custom 3d models, animation engine, data-store engine [GitHub Link](https://github.com/KingToxic/remembrance-overview/)
+- [Remembrance](https://github.com/KingToxic/remembrance-overview/) – Luau game, custom 3d models, animation engine, data-store engine
 - Smart Community - React -> next.js -> Firebase 
   
 ---
