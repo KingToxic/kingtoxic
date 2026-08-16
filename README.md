@@ -2,7 +2,7 @@
 
 ---
 Active Projects
-- [Remembrance](https://github.com/KingToxic/remembrance-overview/) – Luau game, custom 3d models, animation engine, data-store engine
+- [Remembrance](https://github.com/KingToxic/remembrance-overview/) – passion project in game development
 - [osu-replayparser](https://github.com/KingToxic/osu/) - an attempt at C++ optimization for throughput with benchmarks
 - [Community Search](https://communitysearch.app/) - a live website made with react and next.js with Firebase hosted with Vercel
   
